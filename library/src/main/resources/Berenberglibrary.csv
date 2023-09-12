@@ -1,0 +1,13 @@
+UniqueID,ItemID,Type,Title,Availability,DueDate,UserId
+1,5,DVD,Pi,Y,,
+2,6,VHS,Pi,Y,,
+3,1,Book,The Art of Computer Programming Volumes 1-6,Y,,
+4,2,Book,The Pragmatic Programmer,N,Mon Sep 04 07:56:04 BST 2023,
+5,3,Book,Java Concurrency In Practice,Y,,
+6,4,Book,Introduction to Algorithms,N,Mon Sep 04 07:56:04 BST 2023,2
+7,5,DVD,Pi,N,Wed Sep 13 07:56:04 BST 2023,2
+8,4,Book,Introduction to Algorithms,Y,,
+9,6,VHS,WarGames,N,Wed Sep 13 07:57:39 BST 2023,3
+10,7,VHS,Hackers,N,Wed Sep 13 07:45:44 BST 2023,1
+11,4,Book,Introduction to Algorithms,N,Wed Sep 13 07:45:44 BST 2023,2
+12,5,DVD,Pi,N,Wed Sep 13 07:52:02 BST 2023,2
